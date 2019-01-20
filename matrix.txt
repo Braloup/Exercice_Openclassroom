@@ -1,0 +1,2 @@
+Si tu est sous Ubuntu ? Tu peux donner un effet matrix à ta console.
+sudo apt-get instal cmatrix
